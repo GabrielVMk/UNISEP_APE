@@ -1,3 +1,8 @@
+/*
+10) Peça dois números e mostre 
+todos os números entre eles.
+*/
+
 int main(){
     int i, nu1, nu2, maior, menor;
     

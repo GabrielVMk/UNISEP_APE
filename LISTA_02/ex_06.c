@@ -1,3 +1,7 @@
+/*
+6) Mostre todos os números ímpares de 1 até 20.
+*/
+
 int main(){
     int i = 1;
     while(i <= 20){

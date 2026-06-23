@@ -1,3 +1,7 @@
+/*
+2) Faça o mesmo exercício anterior usando while.
+*/
+
 int main(){
   int i = 0;
   

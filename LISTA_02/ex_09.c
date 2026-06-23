@@ -1,3 +1,7 @@
+/*
+9)Peça um número e mostre todos os números de 1 até ele.
+*/
+
 int main(){
     int i, nu;
     

@@ -1,3 +1,8 @@
+/*
+14) Peça um número e 
+mostre a contagem regressiva até 0.
+*/
+
 int main() {
     int numero;
 

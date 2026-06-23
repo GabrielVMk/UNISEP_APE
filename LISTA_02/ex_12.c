@@ -1,3 +1,7 @@
+/*
+12) Conte quantos números pares existem entre 1 e 50.
+*/
+
 int main() {
     int contador = 0;
 

@@ -1,3 +1,7 @@
+/*
+13) Some apenas os números ímpares entre 1 e 100.
+*/
+
 int main() {
     int soma = 0;
 

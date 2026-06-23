@@ -1,4 +1,7 @@
 
+/*
+11) Peça um número e calcule o fatorial dele.*/
+
 int main() {
     int n, i;
     long long fatorial = 1; // Usamos long long para suportar números maiores
